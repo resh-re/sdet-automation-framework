@@ -1,6 +1,19 @@
 
-# SSH keys
-sshfile
-sshfile.pub
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# OS
+.DS_Store
+
+# Sensitive files
 *.pem
 *.key
+sshfile
+sshfile.pub
