@@ -1,4 +1,3 @@
-
 # IntelliJ / Eclipse
 .idea/
 *.iml
@@ -6,7 +5,7 @@
 .project
 .settings/
 
-# Maven
+# Maven build output
 target/
 
 # OS
@@ -15,5 +14,7 @@ target/
 # Sensitive files
 *.pem
 *.key
+*.pub
 sshfile
 sshfile.pub
+
