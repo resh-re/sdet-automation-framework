@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-09T22:29:14 PST" name="SDET Automation Suite" finished-at="2026-02-09T22:29:15 PST" duration-ms="1417">
+    <groups>
+      <group name="ui">
+        <method signature="LoginUiTest.validLogin_shouldLandOnProducts()[pri:0, instance:tests.ui.LoginUiTest@1b2abca6]" name="validLogin_shouldLandOnProducts" class="tests.ui.LoginUiTest"/>
+      </group> <!-- ui -->
+      <group name="smoke">
+        <method signature="LoginUiTest.validLogin_shouldLandOnProducts()[pri:0, instance:tests.ui.LoginUiTest@1b2abca6]" name="validLogin_shouldLandOnProducts" class="tests.ui.LoginUiTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-02-09T22:29:14 PST" name="Smoke Suite" finished-at="2026-02-09T22:29:15 PST" duration-ms="1417">
+      <class name="tests.ui.LoginUiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ui.LoginUiTest@1b2abca6]" started-at="2026-02-09T22:29:14 PST" name="setUp" finished-at="2026-02-09T22:29:15 PST" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLogin_shouldLandOnProducts()[pri:0, instance:tests.ui.LoginUiTest@1b2abca6]" started-at="2026-02-09T22:29:15 PST" name="validLogin_shouldLandOnProducts" finished-at="2026-02-09T22:29:15 PST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin_shouldLandOnProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ui.LoginUiTest@1b2abca6]" started-at="2026-02-09T22:29:15 PST" name="tearDown" finished-at="2026-02-09T22:29:15 PST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ui.LoginUiTest -->
+    </test> <!-- Smoke Suite -->
+  </suite> <!-- SDET Automation Suite -->
+</testng-results>

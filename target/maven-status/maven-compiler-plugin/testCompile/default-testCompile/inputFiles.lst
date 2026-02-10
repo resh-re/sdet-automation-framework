@@ -1,0 +1,13 @@
+/Users/reshmaholla/sdet-automation-framework/src/test/java/api/ApiClient.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/api/ReqResUsersApi.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/api/UsersApiTest.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/base/BaseTest.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/base/TestListener.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/config/ConfigLoader.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/driver/BrowserType.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/driver/DriverFactory.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/pages/BasePage.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/pages/InventoryPage.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/pages/LoginPage.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/tests/ui/LoginUiTest.java
+/Users/reshmaholla/sdet-automation-framework/src/test/java/utils/ScreenshotUtil.java
